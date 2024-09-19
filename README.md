@@ -2,7 +2,7 @@
 This repo contains small Python programs I've written to learn more about Python and different Python libraries
 
 ## Getting Started
-To run the experiments in the repo, I use pipenv and pyenv.
+I use pipenv and pyenv to run the experiments in the repo.
 
 ### Clone the repo
 `git clone https://github.com/imcgonigle/python-experiments.git`
