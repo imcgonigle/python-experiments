@@ -39,6 +39,7 @@ Basic experiments are like any other experiments but they don't have any externa
 - bulk-file-renamer.py - Interactive CLI tool for renaming all files in a directory.
 - password-generator.py - Interactive CLI tool for generating strong passwords.
 - task-scheduler.py - An interactive program that allows you to schedule tasks to be run in the future.
+- folder-monitor.py - A program that monitors a directory for changes and lists them as they happen.
 
 ### Other Experiments
 - fetch-links.py - Scrapes a webpage for links and prints them in a table.
