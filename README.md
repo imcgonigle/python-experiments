@@ -4,6 +4,10 @@ This repo contains small Python programs I've written to learn more about Python
 ## Getting Started
 I use pipenv and pyenv to run the experiments in this repo.
 
+### Requirements
+- Install [pyenv](https://github.com/pyenv/pyenv)
+- Install [pipenv](https://pipenv.pypa.io/en/latest/installation.html)
+
 ### Clone the repo
 `git clone https://github.com/imcgonigle/python-experiments.git`
 
